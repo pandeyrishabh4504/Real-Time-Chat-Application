@@ -1,12 +1,7 @@
 # WhatsApp Chat Generator 📱💬
 
-🚀 **Live Demo:** https://your-live-link-here  
-📦 **GitHub Repository:** https://real-chat-2026.vercel.app/
-
-
-<img width="1853" height="883" alt="Screenshot 2026-02-15 181815" src="https://github.com/user-attachments/assets/3a86d250-d3d1-4adf-ad84-3ba7de45ff7c" />
-
-<img width="1823" height="890" alt="Screenshot 2026-02-15 175632" src="https://github.com/user-attachments/assets/36754df0-f840-4c49-b1fb-43394ac13611" />
+🚀 **Live Demo:** https://real-chat-2026.vercel.app/ 
+📦 **GitHub Repository:** https://github.com/pandeyrishabh4504/Real-Time-Chat-Application
 
 ---
 
