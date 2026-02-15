@@ -1,9 +1,15 @@
 # WhatsApp Chat Generator 📱💬
 
 🚀 **Live Demo:** https://your-live-link-here  
-📦 **GitHub Repository:** https://github.com/pandeyrishabh4504/Real-Time-Chat-Application
 
----
+
+
+<img width="1861" height="885" alt="Screenshot 2026-02-15 175605" src="https://github.com/user-attachments/assets/49e08c6b-3ced-457f-b497-6b7c38976868" />
+
+
+<img width="1823" height="890" alt="Screenshot 2026-02-15 175632" src="https://github.com/user-attachments/assets/4880b9dc-a377-475a-afb4-5dde4e21b9f6" />
+
+--- 
 
 A web-based tool to generate realistic WhatsApp-style chat screenshots.  
 You can customize chat details like contact name, status, message bubbles, delivery ticks, battery level, and network indicators — all with a live preview.
