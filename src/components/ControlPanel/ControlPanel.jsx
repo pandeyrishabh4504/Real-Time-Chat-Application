@@ -28,7 +28,7 @@ const ControlPanel = ({
           W
         </div>
         <div>
-          <h1 className="text-2xl font-bold text-gray-800 m-0">Fake WhatsApp Generator</h1>
+          <h1 className="text-2xl font-bold text-gray-800 m-0">WhatsApp Chat Generator</h1>
           <p className="text-gray-600 text-sm mt-1.5 mb-0">Create realistic WhatsApp chat screenshots</p>
         </div>
       </div>
