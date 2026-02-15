@@ -3,7 +3,7 @@
 🚀 **Live Demo:** https://your-live-link-here  
 📦 **GitHub Repository:** https://github.com/pandeyrishabh4504/Real-Time-Chat-Application
 
---- 
+---
 
 A web-based tool to generate realistic WhatsApp-style chat screenshots.  
 You can customize chat details like contact name, status, message bubbles, delivery ticks, battery level, and network indicators — all with a live preview.
