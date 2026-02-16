@@ -4,6 +4,13 @@
 
 📦 **GitHub Repository:** https://github.com/pandeyrishabh4504/Real-Time-Chat-Application
 
+
+<img width="1853" height="883" alt="Screenshot 2026-02-15 181815" src="https://github.com/user-attachments/assets/5ef66d1c-85c1-433d-9d52-ab65e8d36bd7" />
+
+
+<img width="1823" height="890" alt="Screenshot 2026-02-15 175632" src="https://github.com/user-attachments/assets/39fdb0b9-90b3-41ce-9475-e17b97b0a09b" />
+
+
 ---
 
 A web-based tool to generate realistic WhatsApp-style chat screenshots.  
